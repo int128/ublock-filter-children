@@ -1,0 +1,5 @@
+! Title: int128/ublock-filter-children
+! Expires: 1 hour
+! Homepage: https://github.com/int128/ublock-filter-children
+! Licence: CC0
+! Last modified: 2021/11/6 00:00 JST
