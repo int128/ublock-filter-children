@@ -6,6 +6,6 @@
 ##video
 youtube.com#@#video
 
-www.youtube.com/embed^
+youtube.com/embed^
 
 nicovideo.jp##canvas
