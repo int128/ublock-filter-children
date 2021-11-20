@@ -9,3 +9,5 @@ youtube.com#@#video
 youtube.com/embed^
 
 nicovideo.jp##canvas
+
+www.google.com||script
