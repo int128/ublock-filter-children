@@ -8,4 +8,4 @@ Import https://raw.githubusercontent.com/int128/ublock-filter-children/main/filt
 
 ## References
 
-- https://github.com/gorhill/uBlock/wiki/Dashboard:-My-rules
+- https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
