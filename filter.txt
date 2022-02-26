@@ -3,11 +3,10 @@
 ! Homepage: https://github.com/int128/ublock-filter-children
 ! Licence: CC0
 
-##video
 youtube.com#@#video
-
 youtube.com/embed^
 
 nicovideo.jp##canvas
+www.pixiv.net##img
 
 www.google.com||script
