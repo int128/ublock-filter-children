@@ -7,7 +7,7 @@ youtube.com#@#video
 youtube.com/embed^
 
 nicovideo.jp##canvas
-www.pixiv.net##img
+pixiv.net##img
 
 ||google.com^$script,inline-script
 ||google.co.jp^$script,inline-script
