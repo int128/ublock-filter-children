@@ -9,4 +9,6 @@ youtube.com/embed^
 nicovideo.jp##canvas
 www.pixiv.net##img
 
-www.google.com||script
+||google.com^$script,inline-script
+||google.co.jp^$script,inline-script
+||twitter.com^$script,inline-script
