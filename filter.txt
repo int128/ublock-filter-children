@@ -1,18 +1,19 @@
 ! Title: int128/ublock-filter-children
-! Expires: 10 minutes
+! Expires: 1 hour
 ! Homepage: https://github.com/int128/ublock-filter-children
 ! Licence: CC0
 
+google.*##img
+pixiv.net##img
+nicovideo.jp##canvas
+
 youtube.com#@#video
 youtube.com/embed^
-
-nicovideo.jp##canvas
-pixiv.net##img
 
 ||google.com^$script,inline-script
 ||google.co.jp^$script,inline-script
 ||twitter.com^$script,inline-script
 ||instagram.com^$script,inline-script
 ||facebook.com^$script,inline-script
-||tiktok*.com^$script,inline-script,image,media
-||ttwstatic.com^$script,inline-script,image,media
+||tiktok*.com^$script,inline-script
+||ttwstatic.com^$script,inline-script
