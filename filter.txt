@@ -7,9 +7,6 @@ google.*##img
 pixiv.net##img
 nicovideo.jp##canvas
 
-youtube.com#@#video
-youtube.com/embed^
-
 ||google.com^$script,inline-script
 ||google.co.jp^$script,inline-script
 ||twitter.com^$script,inline-script
@@ -18,5 +15,12 @@ youtube.com/embed^
 ||tiktok*.com^$script,inline-script
 ||ttwstatic.com^$script,inline-script
 
-# disable autocompletion
+# embedded videos (except youtube.com)
+youtube.com#@#video
+youtube.com/embed^
+
+# autocompletion
 youtube.com##.sbdd_a
+
+# recommend
+youtube.com###related
