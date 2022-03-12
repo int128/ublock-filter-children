@@ -17,3 +17,6 @@ youtube.com/embed^
 ||facebook.com^$script,inline-script
 ||tiktok*.com^$script,inline-script
 ||ttwstatic.com^$script,inline-script
+
+# disable autocompletion
+youtube.com##.sbdd_a
