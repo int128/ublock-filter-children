@@ -24,3 +24,5 @@ youtube.com##.sbdd_a
 
 # recommend
 youtube.com###related
+youtube.com###menu-container
+youtube.com###subscribe-button
